@@ -31,3 +31,20 @@ text-align: left;
     left: 16px;
     color: white;
 }
+
+.img-title
+{
+position: relative;
+text-align: left;
+background-color: skyblue;
+}
+
+.booleaner2
+{
+    font-size: 48px;
+    position: absolute;
+    bottom: 80%;
+    text-align: left;
+    color:  white;
+    font-style: italic;
+}
