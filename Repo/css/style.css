@@ -20,7 +20,14 @@
     color: gray;
 }
 
-.title-lorem1
+.imgpc
 {
-    background-image: ./Repo/img/monitor.jpg;
+position: relative;
+text-align: left;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 70%;
+    left: 16px;
+    color: white;
 }
