@@ -12,7 +12,7 @@
 }
 
 .riga-1{
-    background-color: lightskyblue;
+    background-color: rgb(135, 200, 250);
 }
 
 #interessi
@@ -32,13 +32,6 @@ text-align: left;
     color: white;
 }
 
-.img-title
-{
-position: relative;
-text-align: left;
-background-color: skyblue;
-}
-
 .booleaner2
 {
     font-size: 48px;
@@ -47,4 +40,30 @@ background-color: skyblue;
     text-align: left;
     color:  white;
     font-style: italic;
+}
+
+header
+{
+    background-image: url(/Repo/img/pattern.png);
+    background-size: 400px;
+    height: 100px;
+    background-color: aqua;
+}
+body
+{
+    margin: 0;
+}
+
+.titlefont
+{
+    margin-top: 40px;
+    width: 200px;
+}
+
+.space
+{
+    padding: 10px;
+    display: inline-block;
+    letter-spacing: normal;
+    border-spacing: 0px;
 }
